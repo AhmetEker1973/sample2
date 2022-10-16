@@ -2,4 +2,4 @@
 
 deneme
 
-this is the changes in remote repo
+this is the changes in remote repository
